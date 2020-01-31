@@ -11,7 +11,7 @@ therabeats is a suite of  **three** health services.
 
 **GlobePred**, a Breast Cancer Classifier which is used as a serialized pickle file in the web application with a Flask Backend.
 
-## Nikola AI's repository consists of:
+## Nikola AI's [repository] (https://github.com/arthtyagi/Nikola.ai) consists of :
 
   * iPython notebook
   * a python file
@@ -19,14 +19,17 @@ therabeats is a suite of  **three** health services.
 
 ## CardioNosis consists of two repositories :
 
- The **First** repository consists of:
+ The [**First** repository] (https://github.com/arthtyagi/CardioNosis) consists of:
   * the web application
   * the Jupyter Notebook
   
- The **Second** repository consists of:
+ The [**Second** repository] (https://github.com/arthtyagi/cardionosis-website) consists of:
   * the website files
   
-## GlobePred consists of two repositories: 
+## GlobePred consists of two repositories  : 
 
+ The [**First** repository] (https://github.com/arthtyagi/GlobePred) consists of : 
   * the web application
+  
+ The [**Second** repository] (https://github.com/arthtyagi/GlobePred-website) consists of :  
   * the website files
