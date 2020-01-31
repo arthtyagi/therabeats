@@ -1,0 +1,271 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+:root {
+    --web-view-ids: Web_1920___1;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+#Web_1920___1 {
+    position: absolute;
+    width: 1920px;
+    height: 3824px;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+#Header {
+    position: absolute;
+    width: 1734px;
+    height: 762px;
+    left: 134px;
+    top: 57px;
+    overflow: visible;
+}
+
+#nikola {
+    position: absolute;
+    width: 554px;
+    height: 554px;
+    left: 549px;
+    top: 208px;
+    overflow: visible;
+}
+
+#NIKOLA_i {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 250px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Amatic SC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 134px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Your_very_own_personal_intelli {
+    position: absolute;
+    left: 2px;
+    top: 398px;
+    overflow: visible;
+    width: 495px;
+    height: 170px;
+    text-align: left;
+    font-family: American Typewriter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 44px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Brought_as_a_part_of_the_thera {
+    position: absolute;
+    left: 1209px;
+    top: 416px;
+    overflow: visible;
+    width: 526px;
+    height: 135px;
+    text-align: left;
+    font-family: American Typewriter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 44px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#theraBeats_black {
+    position: absolute;
+    width: 438px;
+    height: 99px;
+    left: 1209px;
+    top: 35px;
+    overflow: visible;
+}
+
+#Overview {
+    position: absolute;
+    width: 1585px;
+    height: 784px;
+    left: 200px;
+    top: 1134px;
+    overflow: visible;
+}
+
+#OVERVIEW {
+    position: absolute;
+    left: 592px;
+    top: 0px;
+    overflow: visible;
+    width: 337px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Charter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 68px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Nikola_is_your_very_own__frien {
+    position: absolute;
+    left: 0px;
+    top: 120px;
+    overflow: visible;
+    width: 1586px;
+    height: 664px;
+    text-align: center;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 47px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Technical_Specs {
+    position: absolute;
+    width: 1519px;
+    height: 1109px;
+    left: 201px;
+    top: 2031px;
+    overflow: visible;
+}
+
+#Technical_Specifications {
+    position: absolute;
+    left: 393px;
+    top: 0px;
+    overflow: visible;
+    width: 733px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#MATTER_FOR_THE_WEBSITE__Techni {
+    position: absolute;
+    background-color: lightgray;
+    left: 0px;
+    top: 174px;
+    overflow: auto;
+    width: 1520px;
+    height: 935px;
+    text-align: left;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Try {
+    position: absolute;
+    width: 821px;
+    height: 185px;
+    left: 550px;
+    top: 3257px;
+    overflow: visible;
+}
+
+#Try_the_Demo_Version_right_now {
+    position: absolute;
+    left: 49px;
+    top: 0px;
+    overflow: visible;
+    width: 723px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 47px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Click_HERE_to_try_out_the_demo {
+    position: absolute;
+    left: 0px;
+    top: 130px;
+    overflow: visible;
+    width: 822px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 47px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Footer {
+    position: absolute;
+    width: 1920px;
+    height: 311px;
+    left: 0px;
+    top: 3506px;
+    overflow: visible;
+}
+
+.Rectangle_2 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 311px;
+    left: 0px;
+    top: 0px;
+}
+
+#theraBeats {
+    position: absolute;
+    width: 424px;
+    height: 97px;
+    left: 748px;
+    top: 46px;
+    overflow: visible;
+}
+
+#An_application_of_the_theraBea {
+    position: absolute;
+    left: 686px;
+    top: 175px;
+    overflow: visible;
+    width: 549px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(52, 52, 52, 1);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
