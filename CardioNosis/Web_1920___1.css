@@ -1,0 +1,446 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+:root {
+    --web-view-ids: Web_1920___1;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+#Web_1920___1 {
+    position: absolute;
+    width: 1920px;
+    height: 2973px;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+#Features {
+    position: absolute;
+    width: 1920px;
+    height: 1235px;
+    left: 0px;
+    top: 484px;
+    overflow: visible;
+}
+
+#f_bg {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.underline {
+    overflow: visible;
+    position: absolute;
+    width: 303px;
+    height: 6px;
+    left: 809.5px;
+    top: 596.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#FEATURES {
+    position: absolute;
+    left: 809px;
+    top: 527px;
+    overflow: visible;
+    width: 303px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 0.29px;
+}
+
+#With_the_use_of_classical_Mach {
+    position: absolute;
+    left: 337px;
+    top: 651px;
+    overflow: visible;
+    width: 1247px;
+    height: 584px;
+    text-align: left;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#Header {
+    position: absolute;
+    width: 1753px;
+    height: 986px;
+    left: 167px;
+    top: -76px;
+    overflow: visible;
+}
+
+#CN_headBg {
+    position: absolute;
+    width: 1753px;
+    height: 986px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Cardiovascular_disease_diagnos {
+    position: absolute;
+    left: 147px;
+    top: 597px;
+    overflow: visible;
+    width: 747px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#cn_logo {
+    position: absolute;
+    width: 475px;
+    height: 568px;
+    left: 1090px;
+    top: 248px;
+    overflow: visible;
+}
+
+#circles {
+    position: absolute;
+    width: 475px;
+    height: 290px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Ellipse_1 {
+    position: absolute;
+    overflow: visible;
+    width: 269px;
+    height: 269px;
+    left: 206px;
+    top: 21px;
+}
+
+.Ellipse_2 {
+    position: absolute;
+    overflow: visible;
+    width: 164px;
+    height: 164px;
+    left: 0px;
+    top: 0px;
+}
+
+#lines {
+    position: absolute;
+    width: 393.044px;
+    height: 119.658px;
+    left: 11.479px;
+    top: 425.679px;
+    overflow: visible;
+}
+
+.Line_6 {
+    overflow: visible;
+    position: absolute;
+    width: 336.539px;
+    height: 12px;
+    left: 28.253px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Line_7 {
+    overflow: visible;
+    position: absolute;
+    width: 336.539px;
+    height: 12px;
+    left: 26.591px;
+    top: 33.238px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Line_8 {
+    overflow: visible;
+    position: absolute;
+    width: 336.539px;
+    height: 12px;
+    left: 26.591px;
+    top: 54.843px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Line_9 {
+    overflow: visible;
+    position: absolute;
+    width: 336.539px;
+    height: 12px;
+    left: 0px;
+    top: 76.448px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Line_10 {
+    overflow: visible;
+    position: absolute;
+    width: 336.539px;
+    height: 12px;
+    left: 56.505px;
+    top: 98.053px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Line_11 {
+    overflow: visible;
+    position: absolute;
+    width: 336.539px;
+    height: 12px;
+    left: 0px;
+    top: 119.658px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#cn_logo_z {
+    position: absolute;
+    width: 365px;
+    height: 557px;
+    left: 11px;
+    top: 11px;
+    overflow: visible;
+}
+
+#CardioNosis_text {
+    position: absolute;
+    width: 769px;
+    height: 90px;
+    left: 147px;
+    top: 380px;
+    overflow: visible;
+}
+
+#Overview {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 1562px;
+    overflow: visible;
+}
+
+#overview_bg {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#The_Heart_Disease_Predictor_wh {
+    position: absolute;
+    left: 337px;
+    top: 241px;
+    overflow: visible;
+    width: 1247px;
+    height: 445px;
+    text-align: left;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.underline_ {
+    overflow: visible;
+    position: absolute;
+    width: 303px;
+    height: 6px;
+    left: 808.5px;
+    top: 178.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#OVERVIEW {
+    position: absolute;
+    left: 808px;
+    top: 112px;
+    overflow: visible;
+    width: 305px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#TRY_THE_DEMO_VERSION_ {
+    position: absolute;
+    left: 609px;
+    top: 814px;
+    overflow: visible;
+    width: 703px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#Click_HERE_to_check_out_the_de {
+    position: absolute;
+    left: 337px;
+    top: 921px;
+    overflow: visible;
+    width: 1247px;
+    height: 67px;
+    text-align: center;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(52, 52, 52, 1);
+}
+
+#Footer {
+    position: absolute;
+    width: 1920px;
+    height: 338px;
+    left: 0px;
+    top: 2639px;
+    overflow: visible;
+}
+
+.Rectangle_2 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 338px;
+    left: 0px;
+    top: 0px;
+}
+
+#theraBeats {
+    position: absolute;
+    width: 424px;
+    height: 97px;
+    left: 748px;
+    top: 46px;
+    overflow: visible;
+}
+
+#An_application_of_the_theraBea {
+    position: absolute;
+    left: 686px;
+    top: 192px;
+    overflow: visible;
+    width: 549px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(52, 52, 52, 1);
+}
+
+#Sidebar {
+    position: fixed;
+    width: 167px;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Rectangle_1 {
+    position: absolute;
+    overflow: visible;
+    width: 167px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+}
+
+#theraBeats_be {
+    position: absolute;
+    width: 122px;
+    height: 27px;
+    left: 25px;
+    top: 60px;
+    overflow: visible;
+}
+
+#useless {
+    position: absolute;
+    width: 76px;
+    height: 116px;
+    left: 43px;
+    top: 930px;
+    overflow: visible;
+}
+
+#top {
+    position: absolute;
+    width: 76px;
+    height: 76px;
+    left: 43px;
+    top: 569px;
+    overflow: visible;
+}
+
+#demo {
+    position: absolute;
+    left: 46px;
+    top: 445px;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 46px;
+    color: rgba(69, 129, 142, 1);
+}
+
+.Sidebar {
+    position: fixed;
+}
+
+a:visited {
+    color: rgba(255, 255, 255, 1);
+}
+
+a {
+    text-decoration: none;
+}
