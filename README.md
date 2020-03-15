@@ -10,8 +10,9 @@ This particular repository for therabeats contains the files for setting up the 
 * `git clone github.com/arthtyagi/therabeats`
 
 * set up a localhost server using 
-    #### * _django_   or 
-    #### * _apache_
+    #### * _python simple https server_   or 
+    #### * _apache_ or
+    #### * _any other server you prefer_
     
     Once you've setup the localhost, move the cloned files of this repository to the structure of the local host and go the specified address of the local host server.
     
